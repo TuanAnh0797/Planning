@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SMTPlaning")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80e9fa011d1a680efaae7722edeccd25c0a512aa")]
 [assembly: System.Reflection.AssemblyProductAttribute("SMTPlaning")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SMTPlaning")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

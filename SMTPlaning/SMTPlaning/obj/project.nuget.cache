@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "CQfJ1aLx9bY=",
+  "success": true,
+  "projectFilePath": "E:\\net8\\SMTPlaning\\SMTPlaning\\SMTPlaning.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\70R3605\\.nuget\\packages\\google.ortools\\9.14.6206\\google.ortools.9.14.6206.nupkg.sha512",
+    "C:\\Users\\70R3605\\.nuget\\packages\\google.ortools.runtime.linux-arm64\\9.14.6206\\google.ortools.runtime.linux-arm64.9.14.6206.nupkg.sha512",
+    "C:\\Users\\70R3605\\.nuget\\packages\\google.ortools.runtime.linux-x64\\9.14.6206\\google.ortools.runtime.linux-x64.9.14.6206.nupkg.sha512",
+    "C:\\Users\\70R3605\\.nuget\\packages\\google.ortools.runtime.osx-arm64\\9.14.6206\\google.ortools.runtime.osx-arm64.9.14.6206.nupkg.sha512",
+    "C:\\Users\\70R3605\\.nuget\\packages\\google.ortools.runtime.osx-x64\\9.14.6206\\google.ortools.runtime.osx-x64.9.14.6206.nupkg.sha512",
+    "C:\\Users\\70R3605\\.nuget\\packages\\google.ortools.runtime.win-x64\\9.14.6206\\google.ortools.runtime.win-x64.9.14.6206.nupkg.sha512",
+    "C:\\Users\\70R3605\\.nuget\\packages\\google.protobuf\\3.31.1\\google.protobuf.3.31.1.nupkg.sha512"
+  ],
+  "logs": []
+}
